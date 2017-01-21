@@ -1,2 +1,0 @@
-# devopsdemo
-devopsdemo web skeleton
